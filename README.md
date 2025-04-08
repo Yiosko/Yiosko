@@ -3,8 +3,9 @@
 ## 🌟 About Me
 I'm a Full Stack Developer passionate about web development, application development, and graphical interfaces. I enjoy building modern, efficient, and user-friendly applications.
 
-
-![Logo](https://i.postimg.cc/MK1C8MY6/360016600-291156673315624-972967837495691433-n.jpg)
+  <p align="center">
+    <img src="https://i.postimg.cc/MK1C8MY6/360016600-291156673315624-972967837495691433-n.jpg" alt="Imagen">
+  </p>
 
 ## 🚀 Skills
 
@@ -15,6 +16,11 @@ I'm a Full Stack Developer passionate about web development, application develop
 - MySQL | Postman | Insomnia
 
 - Full Stack Development & API Testing
+
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yiosko&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Imagen">
+  </p>
+
 
 ## 💼 Experience
 Full Stack Developer – Ticketsoft (Present)
@@ -40,3 +46,9 @@ All my projects are available in my GitHub repository. Check them out!
 ## 📫 Contact
 - 📩 Email: diegoalejandrogutierrez77@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/diego-alejandro-gutierrez-flores-a11207321/
+
+## 📊 Statistics
+
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Yiosko&rank_icon=github&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Imagen">
+  </p>
