@@ -50,7 +50,7 @@ All my projects are available in my GitHub repository. Check them out!
 ## 📊 Statistics
 
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Yiosko&rank_icon=github&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Imagen">
+    <img src="https://github-readme-stats.vercel.app/api?username=Yiosko&theme=dark" alt="Imagen">
   </p>
 
   <p align="center">
