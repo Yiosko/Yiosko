@@ -50,10 +50,5 @@ All my projects are available in my GitHub repository. Check them out!
 ## 📊 Statistics
 
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Yiosko&theme=dark" alt="Imagen">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Yiosko&theme=dark" alt="Imagen">
   </p>
-
-  <p align="center">
-    <img src="https://github.com/user-attachments/assets/d57fb088-75fb-4aa7-80d0-b9da142a9087" alt="Imagen">
-  </p>
-
