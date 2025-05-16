@@ -52,3 +52,5 @@ All my projects are available in my GitHub repository. Check them out!
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Yiosko&theme=dark" alt="Imagen">
   </p>
+
+Wakatime: https://wakatime.com/@Yiosko
