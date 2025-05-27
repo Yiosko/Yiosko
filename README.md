@@ -54,3 +54,7 @@ All my projects are available in my GitHub repository. Check them out!
   </p>
 
 Wakatime: https://wakatime.com/@Yiosko
+
+### Qualifications
+
+https://github-readme-stats.vercel.app/api?username=Yiosko&theme=dark
