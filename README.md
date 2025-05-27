@@ -57,4 +57,7 @@ Wakatime: https://wakatime.com/@Yiosko
 
 ### Qualifications
 
-https://github-readme-stats.vercel.app/api?username=Yiosko&theme=dark
+
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Yiosko&theme=dark" alt="Imagen">
+  </p>
